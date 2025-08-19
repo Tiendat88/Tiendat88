@@ -11,10 +11,7 @@ Tôi là sinh viên ngành **Trí tuệ Nhân tạo** tại **Đại học Thăn
   - Kỹ năng mềm: Quản lý thời gian, làm việc nhóm, giao tiếp.
 - 🌟 **Sở thích**: Tham gia các hội thảo AI, đọc sách về công nghệ, và đóng góp vào các dự án mã nguồn mở.
 
-## Dự án nổi bật
-- **Pneumonia X-ray Detection**: Xây dựng mô hình phân loại ảnh X-quang để phát hiện viêm phổi bằng TensorFlow.
-- **Zillow Log Error Prediction**: Dự đoán sai số log giá nhà bằng hồi quy tuyến tính trên PySpark
-
+## Dự án
 👉 Xem thêm các dự án tại [Repositories](https://github.com/Tiendat88?tab=repositories).
 
 ## Liên hệ
