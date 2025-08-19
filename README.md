@@ -21,7 +21,9 @@ Tôi đam mê khai thác dữ liệu, xây dựng mô hình và áp dụng AI đ
 | **Deep Learning**        | TensorFlow, Keras, PyTorch |
 | **NLP**                  | NLTK, SpaCy, Hugging Face Transformers, BERT, GPT |
 | **Computer Vision**      | OpenCV, YOLO, Detectron2, CNNs, Vision Transformers |
-| **Xử lý dữ liệu & Big Data** | Pandas, NumPy, PySpark, Hadoop, Spark, Hive |
+| **Web Crawling & Data Pipeline** | BeautifulSoup, Scrapy, Selenium, Requests, LXML, Asyncio, ETL pipelines |
+| **Xử lý dữ liệu & Big Data** | Pandas, NumPy, Dask, PySpark, Hadoop, Spark, Hive |
+| **Làm sạch & Tiền xử lý dữ liệu** | Data Cleaning, Feature Engineering, Missing Values Handling, Data Normalization |
 | **Cơ sở dữ liệu**        | MySQL, PostgreSQL, MongoDB, Firebase |
 | **Trực quan hóa**        | Matplotlib, Seaborn, Plotly, Power BI, Tableau |
 | **Công cụ Dev & Workflow** | Git/GitHub, Docker, Airflow, MLflow, DVC |
@@ -43,5 +45,5 @@ Tôi đam mê khai thác dữ liệu, xây dựng mô hình và áp dụng AI đ
 
 ---
 
-✨ Tôi luôn sẵn sàng hợp tác trong các dự án thú vị về **AI, NLP, Computer Vision, Big Data và MLOps**.  
+✨ Tôi luôn sẵn sàng hợp tác trong các dự án thú vị về **AI, NLP, Computer Vision, Big Data, Web Crawling và MLOps**.  
 Hãy kết nối để cùng tạo ra điều gì đó tuyệt vời! 🚀  
