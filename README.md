@@ -23,7 +23,6 @@ I’m a junior AI engineer interested in building **practical AI applications**,
 ---
 
 ## 🌐 Languages
-- Vietnamese (Native)  
 - English (TOEIC 550 – reading technical documents)  
 - Chinese (HSK 3 – basic)
 
