@@ -29,23 +29,51 @@ location: Hà Nội 🇻🇳
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://openclaw.ai/"><img src="https://img.shields.io/badge/OpenClaw%20AI-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></a>
-  <a href="https://dify.ai/"><img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=data&logoColor=white" /></a>
-  <a href="https://www.langflow.org/"><img src="https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=chainlink&logoColor=white" /></a>
-  <a href="https://www.make.com/"><img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" /></a>
+  <a href="https://antigravity.google/" title="Antigravity">
+    <img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=64" height="48" alt="Antigravity" />
+  </a>&nbsp;&nbsp;
+  <a href="https://openclaw.ai/" title="OpenClaw AI">
+    <img src="https://www.google.com/s2/favicons?domain=openclaw.ai&sz=64" height="48" alt="OpenClaw AI" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="48" alt="Docker" />
+  </a>&nbsp;&nbsp;
+  <a href="https://n8n.io/" title="n8n">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
+  </a>&nbsp;&nbsp;
+  <a href="https://dify.ai/" title="Dify">
+    <img src="https://cdn.simpleicons.org/dify/1C64F2" height="48" alt="Dify" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.langflow.org/" title="Langflow">
+    <img src="https://cdn.simpleicons.org/langflow/000000" height="48" alt="Langflow" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.make.com/" title="Make">
+    <img src="https://cdn.simpleicons.org/make/6D00CC" height="48" alt="Make" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
-  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /></a>
-  <a href="https://windsurf.com/"><img src="https://img.shields.io/badge/Windsurf-00BFA5?style=for-the-badge&logo=wind&logoColor=white" /></a>
-  <a href="https://telegram.org/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://zalo.me/"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
+  <a href="https://www.anthropic.com/claude" title="Claude">
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" />
+  </a>&nbsp;&nbsp;
+  <a href="https://openai.com/" title="OpenAI">
+    <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" />
+  </a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/" title="Hugging Face">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
+  </a>&nbsp;&nbsp;
+  <a href="https://cursor.com/" title="Cursor">
+    <img src="https://cdn.simpleicons.org/cursor/000000" height="48" alt="Cursor" />
+  </a>&nbsp;&nbsp;
+  <a href="https://windsurf.com/" title="Windsurf">
+    <img src="https://cdn.simpleicons.org/windsurf/00BFA5" height="48" alt="Windsurf" />
+  </a>&nbsp;&nbsp;
+  <a href="https://telegram.org/" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" alt="Telegram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://zalo.me/" title="Zalo">
+    <img src="https://cdn.simpleicons.org/zalo/0068FF" height="48" alt="Zalo" />
+  </a>
 </p>
 
 ---
