@@ -57,7 +57,7 @@ location: Hà Nội 🇻🇳
     <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" />
   </a>&nbsp;&nbsp;
   <a href="https://openai.com/" title="OpenAI">
-    <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" />
+    <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=64" height="48" alt="OpenAI" />
   </a>&nbsp;&nbsp;
   <a href="https://huggingface.co/" title="Hugging Face">
     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
