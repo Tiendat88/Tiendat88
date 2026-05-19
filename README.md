@@ -29,23 +29,23 @@ location: Hà Nội 🇻🇳
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Antigravity%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenClaw%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://openclaw.ai/"><img src="https://img.shields.io/badge/OpenClaw%20AI-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></a>
+  <a href="https://dify.ai/"><img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=data&logoColor=white" /></a>
+  <a href="https://www.langflow.org/"><img src="https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=chainlink&logoColor=white" /></a>
+  <a href="https://www.make.com/"><img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windsurf-00BFA5?style=for-the-badge&logo=wind&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
+  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /></a>
+  <a href="https://windsurf.com/"><img src="https://img.shields.io/badge/Windsurf-00BFA5?style=for-the-badge&logo=wind&logoColor=white" /></a>
+  <a href="https://telegram.org/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://zalo.me/"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
 </p>
 
 ---
