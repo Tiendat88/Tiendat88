@@ -14,15 +14,13 @@
 ### 🧠 About Me
 
 ```yaml
-name: Phạm Tiến Đạt
-role: AI Engineer @ Mement Việt Nam
+role: AI Engineer
 education: B.S. Artificial Intelligence – Thang Long University
 focus:
   - AI Agent Design & Orchestration
   - RAG Pipelines & Knowledge Base
   - LLM Fine-tuning (LoRA/QLoRA, SFT)
   - End-to-end Workflow Automation
-email: phamtiendat23092002@gmail.com
 location: Hà Nội 🇻🇳
 ```
 
@@ -63,9 +61,8 @@ location: Hà Nội 🇻🇳
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:phamtiendat23092002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tiendat88/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Tiendat88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Phone-0383%20914%20941-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 <p align="center"><i>✨ "Building intelligent agents that get real work done." ✨</i></p>
