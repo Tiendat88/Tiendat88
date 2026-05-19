@@ -50,22 +50,10 @@ location: Hà Nội 🇻🇳
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiendat88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFA5&icon_color=00BFA5" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiendat88&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFA5" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiendat88&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFA5&fire=00BFA5&currStreakLabel=00BFA5" height="170" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
+  <a href="mailto:phamtiendat23092002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tiendat88/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Tiendat88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
