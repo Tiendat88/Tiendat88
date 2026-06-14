@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pham Tien Dat 👋</h1>
-<h3 align="center">🤖 AI Agent & Application Engineer · Hà Nội, Việt Nam</h3>
+<h3 align="center">🤖 AI Agent & Application Engineer · Hanoi, Vietnam</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFA5&center=true&vCenter=true&width=600&lines=Building+AI+Agents+that+get+work+done;LLM+%7C+RAG+%7C+Multi-Agent+Orchestration;Automation+with+N8n+%2B+Dify+%2B+Langflow" />
